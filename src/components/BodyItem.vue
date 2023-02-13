@@ -6,7 +6,7 @@
                 <p>This portal makes available documentation of the historical remains of the First Swedish Antarctic Expedition on the Antarctic Peninsula. The material was collected in January and February 2020 as part of the CHAQ2020 expedition. The Swedish National Heritage Board, the Swedish Research Council, and Instituto AntÃ¡rtico Argentino supported the project.</p>
             </div>
     </div>
- <a href="http://raa.diva-portal.org/smash/record.jsf?pid=diva2%3A1589121&dswid=4653"><div class="label" style="margin-right:auto; margin-left:auto; width:30px; height:30px; margin-top:60px; background-image:url(../assets/interface/scrollarrow2.png); background-size:30px;"></div></a>
+ <a href="http://raa.diva-portal.org/smash/record.jsf?pid=diva2%3A1589121&dswid=4653"><div class="label" style="margin-right:auto; margin-left:auto; width:30px; height:30px; margin-top:60px;"></div></a>
         <div class="label" style="margin-top:5px;"><a href="http://raa.diva-portal.org/smash/record.jsf?pid=diva2%3A1589121&dswid=4653">Read Full Report</a></div>                                                      
 
 		<div class="label" style="margin-top:10px; cursor:pointer;" onclick="scrollToSites()">Scroll down to documentation</div>

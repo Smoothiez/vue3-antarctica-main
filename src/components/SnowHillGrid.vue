@@ -44,7 +44,7 @@ function getImage(src){
     <template #default="{ item, index }">
       <div>
         <h1>{{ item.title }}</h1>
-        <img :src="getImage(item.src)" style="width:100%"/>
+        <router-link to="/dragon"><img :src="getImage(item.src)" style="width:100%"/></router-link>
       </div>
     </template>
   </masonry-wall>

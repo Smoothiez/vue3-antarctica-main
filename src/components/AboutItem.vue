@@ -20,7 +20,7 @@
                             <p>If the building is to stand for the next 30 to 50 years, the recommendation is to continue regular building maintenance and to resume to reinforce the hill using the same methods that the DNA-IAA have applied in the past. The sites with remains from Nordenskjöld's fieldwork are disappearing and require direct rescue archaeology.</p>
                         </div>
     </div>
-        <a href="http://raa.diva-portal.org/smash/record.jsf?pid=diva2%3A1589121&dswid=4653"><div class="label" style="margin-right:auto; margin-left:auto; width:30px; height:30px; margin-top:60px; background-image:url(../assets/interface/book.png); background-size:30px;"></div></a>
+        <a href="http://raa.diva-portal.org/smash/record.jsf?pid=diva2%3A1589121&dswid=4653"><div class="label" style="margin-right:auto; margin-left:auto; width:30px; height:30px; margin-top:60px;"></div></a>
         <div class="label" style="margin-top:5px;"><a href="http://raa.diva-portal.org/smash/record.jsf?pid=diva2%3A1589121&dswid=4653">Read Full Report</a></div>   
     </div>
     <div id="galleries">
